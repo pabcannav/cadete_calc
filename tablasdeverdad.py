@@ -26,8 +26,8 @@ def funcion(a,b,c,d):
 def funcion(a,b,c,d,e)
     return tor(tor(tand(a,b),tor(c,d)),e)
 '''
-def funcion(a,b,c,d):
-    return tnand4(a, b, c, d)
+def funcion(a,b,c):
+    return tand3(a,b,c)
 ################################################
 #################################################
 def tabladeverdad4variables():

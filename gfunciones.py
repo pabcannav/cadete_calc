@@ -4,6 +4,7 @@ Created on 13 oct 2021
 @author: PCN
 '''
 from tablasdeverdad import *
+from kmapa import *
 '''
 En este script es donde ejecutais las tablas de verdad o testeais
 la funcion definida en tablasdeverdad.py para un valor concreto,
@@ -15,4 +16,4 @@ OBSERVACIONES:
     otra tabla de verdad que no sea la de 3 variables os lanzanra un error
     por consola.
 '''
-tabladeverdad4variables()
+kmapa3var()
